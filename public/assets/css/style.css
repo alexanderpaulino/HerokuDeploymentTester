@@ -1,0 +1,49 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: orange;
+  width: 50%;
+}
+.eaten{
+  background-color: lightgoldenrodyellow
+}
+
+.labels {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.jumbotron.bg-primary.text-center{
+  background-color: orange;
+}
+
+.burgersContainer{
+  background-color:orange;
+
+  margin: 0 auto;
+  background-size:     cover;                     
+  background-repeat:   no-repeat;
+  background-position: center center; 
+  border:3px solid blue;
+}
+body {
+ 
+  min-height:100%;
+  font-family: 'Aldrich', sans-serif;
+
+}
+
+.burgersJumbo{
+  
+
+  margin: 0 auto;
+}
